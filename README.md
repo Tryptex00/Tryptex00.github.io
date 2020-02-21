@@ -1,1 +1,5 @@
-This is Gamegenorator's Porfolio, please don't fork this project or create pull requests.
+### This is Gamegenorator's Portfolio
+
+
+
+ **This is not designed to be a community effort, please don't fork, or create an issue for this project.** 
