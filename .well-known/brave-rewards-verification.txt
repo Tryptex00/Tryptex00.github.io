@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gamegenorator.github.io
+Token: ccff3a5d8aa44763bccfd0776abb1fb251029ecfb6f70c728b1ef0d55a2ab8f8
