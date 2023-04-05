@@ -1,7 +1,7 @@
 {
 "companyName": "SonnenbergerInd",
 "productName": "Project Bounce",
-"productVersion": "1.2bi79",
+"productVersion": "1.2bi80",
 "dataUrl": "project-bounce.data.unityweb",
 "wasmCodeUrl": "project-bounce.wasm.code.unityweb",
 "wasmFrameworkUrl": "project-bounce.wasm.framework.unityweb",

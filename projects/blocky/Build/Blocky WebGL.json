@@ -1,0 +1,14 @@
+{
+"companyName": "Sonnenberger.Ind",
+"productName": "Blocky - Platformer",
+"dataUrl": "Blocky WebGL.data.unityweb",
+"asmCodeUrl": "Blocky WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Blocky WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Blocky WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Blocky WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
